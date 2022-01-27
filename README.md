@@ -1,8 +1,9 @@
 # Kodluyoruz Ilk Repo
 
-Bu Repo [Kodluyoruz] (https://www.kodluyoruz.org) Java Egitiminde olusturdugumuz ilk repo.Icerisinde bir adet README dosyasi, bir adet de index.html  barındırıyor.
+Bu Repo [Kodluyoruz](https://kodluyoruz.org/) Java Egitiminde olusturdugumuz ilk repo.Icerisinde bir adet README dosyasi, bir adet de index.html  barındırıyor.
 
-![github](figures/github.png)
+![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+
 
 
 # Installation
